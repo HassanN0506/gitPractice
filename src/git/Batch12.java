@@ -6,6 +6,7 @@ public class Batch12 {
 		// TODO Auto-generated method stub
 		System.out.println("thunder");
 		System.out.println("lightning");
+		System.out.println("3");
 
 	}
 
