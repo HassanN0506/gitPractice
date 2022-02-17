@@ -7,6 +7,8 @@ public class Batch12 {
 		System.out.println("thunder");
 		System.out.println("lightning");
 		System.out.println("3");
+		
+		System.out.println("4");
 
 	}
 
